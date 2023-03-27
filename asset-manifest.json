@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/workhard-calendar/static/css/main.a1716df2.css",
+    "main.js": "/workhard-calendar/static/js/main.473de938.js",
+    "static/js/787.1ed0c42c.chunk.js": "/workhard-calendar/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/workhard-calendar/index.html",
+    "main.a1716df2.css.map": "/workhard-calendar/static/css/main.a1716df2.css.map",
+    "main.473de938.js.map": "/workhard-calendar/static/js/main.473de938.js.map",
+    "787.1ed0c42c.chunk.js.map": "/workhard-calendar/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1716df2.css",
+    "static/js/main.473de938.js"
+  ]
+}
